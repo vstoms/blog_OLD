@@ -16,7 +16,7 @@ tags:
 ---
 Microsoft announced under //Build 2019, Windows Terminal is a new, modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
 
-{{< youtube 8gw0rXPMMPE >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8gw0rXPMMPE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Windows Terminal will be delivered via the Microsoft Store in Windows 10 and will be updated regularly, ensuring you are always up to date and able to enjoy the newest features and latest improvements with minimum effort.
 
