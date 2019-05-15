@@ -22,15 +22,15 @@ Today this conten is on Azure blobs and Static website, so I will show you how I
 1. Crete an Storage account where your contes is gona live on.
 2.  Open your Storage account and Static Website
 
-![](/img/2019/Azure1.png)
+![](/media/hugo/Azure1.png)
 
 Provide your domain where your blog is using.
 
-![](/img/2019/Azure18.png)
+![](/media/hugo/Azure18.png)
 
 3. Enable Static Website, type index.html and 404.html and click save.
 
-![](/img/2019/Azure2.png)
+![](/media/hugo/Azure2.png)
 Now our blobs will create an special folder named __$web__, here will our contens live.
 
 ##### Setup Azure Pipelines
