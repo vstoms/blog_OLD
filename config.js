@@ -5,7 +5,7 @@ module.exports = {
   title: 'keep IT tidy',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'viggostomsvik',
   postsPerPage: 4,
   googleAnalyticsId: '1234UA-73379983-2',
   menu: [
@@ -29,7 +29,7 @@ module.exports = {
     contacts: {
       email: 'vstoms@gmail.com',
       telegram: '#',
-      twitter: 'stomst',
+      twitter: 'stoms',
       github: '#',
       rss: '#',
       vkontakte: '#'
