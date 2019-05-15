@@ -3,7 +3,7 @@ template: post
 title: Block Download via Conditional Access and MCAS
 slug: /posts/2019/block-downloade-conditional-access/
 draft: false
-date: 2019-05-15T09:13:38.438Z
+date: 2019-03-17T10:13:38.438Z
 description: >-
   More and more customers today want control over data located in Office 365,
   such that the device must be reported in Azure AD and compliant so my home
