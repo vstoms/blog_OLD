@@ -57,21 +57,21 @@ Congratulations, you have an empty project!
 12. At this stage we can see our stage is pretty boring, so press the __+ Add__
 ![](/media/hugo/Azure10.png)
 13. Go to the __Markedplace__ and search after __Hugo__ and install the job, after its installed add it to your stage.
-![](/media/Azure20.png)
+![](/media/hugo/Azure20.png)
 14. Add your sorce and destination, an important note here is in your source you need to add ```$(System.DefaultWorkingDirectory)/_My blog``` and in the destination you add ```$(System.DefaultWorkingDirectory)/_My blog\publish```
-![](/img/2019/Azure11.png)
+![](/media/hugo/Azure11.png)
 15. Next we will add an job for uploade our contents to Azure blob storage. Press the __+ Add__ sign and search after __Azure File Copy__
-![](/img/2019/Azure19.png)
+![](/media/hugo/Azure19.png)
 16. Now open our newly created job for __Azure File Copy__ and choose the source and add __\public__ at the end. And then add your blob storage where you want the site to be on. And the last step is to add __$web__ under conteinar name and click save.
-![](/img/2019/Azure12.png)
+![](/media/hugo/Azure12.png)
 17. You should have two jobs like this:
-![](/img/2019/Azure13.png)
+![](/media/hugo/Azure13.png)
 18. You should have something like this now in your pipeline:
-![](/img/2019/Azure14.png)
+![](/media/hugo/Azure14.png)
 19. You could try to run your pipeline by deploying it and after it have run all the mark should be green
-![](/img/2019/Azure15.png)
+![](/media/hugo/Azure15.png)
 20. But I would have this pipeline to run automatic when new files is added to my repo, so lets add an Continuous deployment trigger to our pipeline. Go back to your pipeline and press the lighting icone.
-![](/img/2019/Azure16.png)
+![](/media/hugo/Azure16.png)
 21. Enable Continuous deployment trigger:
-![](/img/2019/Azure17.png)
+![](/media/hugo/Azure17.png)
 Next time you update your repo our pipeline will generete contents for our blog!
