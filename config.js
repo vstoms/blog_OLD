@@ -5,7 +5,7 @@ module.exports = {
   title: 'keep IT tidy',
   subtitle: 'Some word about Exchange, Intune, Powershell and self reminders.',
   copyright: '© All rights reserved.',
-  disqusShortname: 'viggostomsvik',
+  disqusShortname: 'blog-stomsvik-com',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-136396879-1',
   menu: [
