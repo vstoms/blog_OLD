@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://blog.stomsvik.com',
+  url: 'blog.stomsvik.com',
   title: 'keep IT tidy',
   subtitle: 'Some word about Exchange, Intune, Powershell and self reminders.',
   copyright: '© All rights reserved.',
