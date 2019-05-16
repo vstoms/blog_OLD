@@ -2,7 +2,7 @@
 template: post
 title: Install Office pro plus in Intune from xml data
 slug: /posts/2019/intune-office-xml/
-draft: true
+draft: false
 date: 2019-03-30T09:25:20.665Z
 description: >-
   Microsoft has in Intune 1903 released that we now can deploy Office Pro Plus
