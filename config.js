@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://blogtest.stomsvik.com',
+  url: 'https://blog.stomsvik.com',
   title: 'keep IT tidy',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Some word about Exchange, Intune, Powershell and self reminders.',
   copyright: '© All rights reserved.',
   disqusShortname: 'viggostomsvik',
   postsPerPage: 4,
-  googleAnalyticsId: '1234UA-73379983-2',
+  googleAnalyticsId: 'UA-136396879-1',
   menu: [
     {
       label: 'Articles',
@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Viggo Stomsvik',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Some word about Exchange, Intune, Powershell and self reminders.',
     contacts: {
       email: 'vstoms@gmail.com',
       telegram: '#',
