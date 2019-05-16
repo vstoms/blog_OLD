@@ -1,6 +1,6 @@
 
 # The Viggo Stomsvik Blog
-My personal blog. I share things I do here. View it here: https://blogtest.stomsvik.com
+My personal blog. I share things I do here. View it here: https://blog.stomsvik.com
 
 ## Technologies Used
 - [Netlify CMS](https://www.netlifycms.org/)
