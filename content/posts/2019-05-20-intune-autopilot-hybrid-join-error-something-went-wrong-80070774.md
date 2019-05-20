@@ -1,7 +1,7 @@
 ---
 template: post
 title: Intune Autopilot Hybrid Join error - Something went wrong 80070774
-slug: intune-autopilot-error-80070774
+slug: /posts/2019/intune-autopilot-error-80070774
 draft: true
 date: 2019-05-20T17:14:23.724Z
 description: >-
