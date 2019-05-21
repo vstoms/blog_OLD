@@ -17,7 +17,6 @@ const Layout = ({ children, title, description }: Props) => (
       <title>{title}</title>
       <meta name="description" content={description} />
       <meta name="twitter:card" content="summary_large_image" />
-      content={`${siteMetadata.siteUrl}${slug}twitter-card.jpg`}
     </Helmet>
     {children}
   </div>
