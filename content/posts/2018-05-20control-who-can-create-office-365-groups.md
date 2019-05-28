@@ -1,9 +1,9 @@
 ---
 template: post
 title: Control who can create Office 365 Groups
-slug: /posts/2019/control-who-can-create-office-365-groups
+slug: /posts/2018/control-who-can-create-office-365-groups
 draft: false
-date: 2019-05-20T17:14:23.724Z
+date: 2018-05-20T17:14:23.724Z
 description: >-
   Control who can create Office 365 Groups
 category: blog
