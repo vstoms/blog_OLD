@@ -5,7 +5,7 @@ slug: /posts/2019/setup-azure-bastion
 draft: false
 date: 2019-06-19T17:14:23.724Z
 description: >-
-  What is and how to set up Azure Bastion.
+  Azure Bastion is a new managed PaaS service that provides seamless RDP and SSH connectivity to your virtual machines over the Secure Sockets Layer (SSL). This is completed without any exposure of the public IPs on your virtual machines
 category: blog
 tags:
   - Azure
