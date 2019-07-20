@@ -17,6 +17,8 @@ tags:
 
 Some user on community.home-assistant.io has managed to make a DSM package that installs Hass.io on the Synology NAS. Here is how to install the package and get around of the issues with USB and add-ons.
 
+__You need to install Docker on your Synalogy first, if not this addon will not start.__
+
 It's now super easy to get Hass.IO up and running on a Synology NAS with this package, and I will show you how to install it and if you have USB devices plugged into it (Z-wave or Zigbee) and getting an error when you are trying to start an addon.
 
 First you have to downloade the DSM package [here](https://www.dropbox.com/s/xgspzppc0j0c8ou/hassio_x64-6.1_20190709-1.spk) 
