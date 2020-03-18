@@ -6944,10 +6944,10 @@ flatted@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/flatted/-/flatted-2.0.0.tgz#55122b6536ea496b4b44893ee2608141d10d9916"
 
-flow-bin@^0.120.1:
-  version "0.120.1"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.120.1.tgz#ab051d6df71829b70a26a2c90bb81f9d43797cae"
-  integrity sha512-KgE+d+rKzdXzhweYVJty1QIOOZTTbtnXZf+4SLnmArLvmdfeLreQOZpeLbtq5h79m7HhDzX/HkUkoyu/fmSC2A==
+flow-bin@^0.121.0:
+  version "0.121.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.121.0.tgz#e206bdc3d510277f9a847920540f72c49e87c130"
+  integrity sha512-QYRMs+AoMLj/OTaSo9+8c3kzM/u8YgvfrInp0qzhtzC02Sc2jb3BV/QZWZGjPo+XK3twyyqXrcI3s8MuL1UQRg==
 
 flow-typed@^3.0.0:
   version "3.0.0"
@@ -13423,15 +13423,6 @@ postcss@^7.0.26:
   version "7.0.26"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.26.tgz#5ed615cfcab35ba9bbb82414a4fa88ea10429587"
   integrity sha512-IY4oRjpXWYshuTDFxMVkJDtWIk2LhsTlu8bZnbEJA4+bYT16Lvpo8Qv6EvDumhYRgzjZl489pmsY3qVgJQ08nA==
-  dependencies:
-    chalk "^2.4.2"
-    source-map "^0.6.1"
-    supports-color "^6.1.0"
-
-postcss@^7.0.27:
-  version "7.0.27"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.27.tgz#cc67cdc6b0daa375105b7c424a85567345fc54d9"
-  integrity sha512-WuQETPMcW9Uf1/22HWUWP9lgsIC+KEHg2kozMflKjbeUtw9ujvFX6QmIfozaErDkmLWS9WEnEdEe6Uo9/BNTdQ==
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
