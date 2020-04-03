@@ -6,9 +6,9 @@ draft: false
 date: 2020-04-03T08:56:00.695Z
 description: >-
   Network Device Enrollment Service (NDES) requests two certificates according the following two certificate templates configured with the "Intended purpose" (Enhanced Key Usages) set to "Certificate Request Agent":
-
-* CEP Encryption.
-* Exchange Enrollment Agent (Offline request).
+  
+ CEP Encryption.
+ Exchange Enrollment Agent (Offline request).
 
 category: blog
 tags:
