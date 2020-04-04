@@ -15,6 +15,10 @@ tags:
   - Ndes
   - reminder
 ---
+Network Device Enrollment Service (NDES) requests two certificates according the following two certificate templates configured with the "Intended purpose" (Enhanced Key Usages) set to "Certificate Request Agent":
+* CEP Encryption.
+* Exchange Enrollment Agent (Offline request).
+
 To renew CEP certificate do the following:
 * Open MMC console and add certificates snap-in
 * Browse to the CEP certificate located in Personal certificates container
