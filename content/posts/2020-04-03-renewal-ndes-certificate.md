@@ -43,6 +43,6 @@ Note: MachineKeySet set to "True" so the certificate and its private key will be
 
 2. Run the following 3 commands to renew that old Enrollment Agent certificate:
 
-CertReq.exe -New Request.inf Certnew.req
-CertReq.exe -Submit Certnew.req Certnew.cer
-CertReq.exe -Accept Certnew.cer
+* CertReq.exe -New Request.inf Certnew.req
+* CertReq.exe -Submit Certnew.req Certnew.cer
+* CertReq.exe -Accept Certnew.cer
