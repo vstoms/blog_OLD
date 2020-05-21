@@ -9,4 +9,4 @@ My personal blog. I share things I do here. View it here: https://blog.stomsvik.
 [gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) for Gatsby.
 
 
-[![Build Status](https://dev.azure.com/st0ms/blog-dev/_apis/build/status/vstoms.blog?branchName=master)](https://dev.azure.com/st0ms/blog-dev/_build/latest?definitionId=6&branchName=master)
+![Azure Static Web Apps CI/CD](https://github.com/vstoms/blog/workflows/Azure%20Static%20Web%20Apps%20CI/CD/badge.svg)
