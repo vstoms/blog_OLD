@@ -13,6 +13,10 @@ tags:
   - M365
   - O365
 ---
+
+If you try to update the Microsoft Exchange Powershell Module an get error that your administrator has blocked
+this application because it potentially pose a security risk to your computer.
+
 There is a quick fix to get pass this error:
 
 ![](/media/ps-module-error/1.png)
