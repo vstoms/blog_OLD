@@ -9252,10 +9252,10 @@ flow-bin@^0.131.0:
   resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.131.0.tgz#d4228b6070afdf3b2a76acdee77a7f3f8e8f5133"
   integrity sha512-fZmoIBcDrtLhy/NNMxwJysSYzMr1ksRcAOMi3AHSoYXfcuQqTvhGJx+wqjlIOqIwz8RRYm8J4V4JrSJbIKP+Xg==
 
-flow-typed@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/flow-typed/-/flow-typed-3.1.0.tgz#706992dd71f7481e39aadb5db163d339d16b500c"
-  integrity sha512-y9AbG5/ZQDyCs2ROmJqYKUCornCPOLJQL06TE1TwNCGTzKYDqLgkYeINCthd9EL8FyzWkTLI0mOSL82dU20hJA==
+flow-typed@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/flow-typed/-/flow-typed-3.2.1.tgz#8f2c3e36bbc2bd9fe77ac378509f4d99d26d1080"
+  integrity sha512-vWQLZmndgdEHdy1TKTeI1DkLLa4078p6vhcKz/IZ6fcpaWLElTSG7rZi3BxlcSWfEQPxsymuSBNwAT7dCpXm6g==
   dependencies:
     "@octokit/rest" "^16.43.1"
     colors "^1.4.0"
@@ -9267,7 +9267,7 @@ flow-typed@^3.1.0:
     mkdirp "^1.0.3"
     prettier "^1.19.1"
     rimraf "^3.0.2"
-    semver "^7.1.3"
+    semver "^7.3.2"
     table "^5.4.6"
     through "^2.3.8"
     unzipper "^0.10.8"
